@@ -8,6 +8,13 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 import java.util.ArrayList;
 
+/*
+• Open Google in first tab
+• Open YouTube on the second tab
+• Open Google translate in the third tab.
+• From translate go to Google and from Google go to YouTube.
+ */
+
 public class Q5 {
     private WebDriver driver;
     private final String GOOGLE_URL         = "https://www.google.com";         //Google url
